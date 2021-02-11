@@ -1,0 +1,15 @@
+.rate-data {
+    display: flex;
+  
+    .rate-selector {
+      width: 250px;
+      margin-top: 60px;
+    }
+  
+    .chart {
+      flex-grow: 1;
+      margin: 30px 30px 30px 30px;
+      padding: 30px 30px 30px 30px;
+  
+    }
+  }
